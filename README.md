@@ -39,3 +39,15 @@
 > - JavaScript Hoisting refers to the process whereby the interpreter appears to move the declaration of functions, variables or classes to the top of their scope, prior to execution of the code. Hoisting is not a term normatively defined in the ECMAScript specification.
 >
 >![](https://res.cloudinary.com/practicaldev/image/fetch/s--UkSuyTRW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/yf0z2gqviit8ouds4gz0.png)
+
+## Recursion (Pекурсия)
+
+>Recursion is a programming technique useful in childhood where a task can be naturally divided into several similar but simpler tasks. Or when the task can be simplified to simple actions plus a simple version of the same task. Or, as we shall see, to work with certain data structures.
+>
+>![](https://i.ytimg.com/vi/vLhHyGTkjCs/maxresdefault.jpg)
+
+## Closure (Закрытие)
+
+>A closure is the combination of a function bundled together (enclosed) with references to its surrounding state (the lexical environment). In other words, a closure gives you access to an outer function's scope from an inner function.
+>
+>![](https://www.freecodecamp.org/news/content/images/2020/05/image-147.png)
